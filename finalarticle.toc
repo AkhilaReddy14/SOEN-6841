@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Problem Statement}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Objectives}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Related Studies}{4}{section.2}%
+\contentsline {section}{\numberline {3}Methodologies}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Approach to Investigating Everyday Life Contexts Using Time-Geography}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Leveraging Robotic Process Automation in the Management of Software Projects}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Managing tasks}{6}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Project Management}{6}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2} Managing day-to-day task}{6}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Technologies and tools involved in managing time and tasks}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Conclusion}{8}{section.4}%
+\contentsline {section}{\numberline {5}References}{9}{section.5}%
